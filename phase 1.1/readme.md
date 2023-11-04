@@ -1,9 +1,9 @@
-Dependences:
+#Dependences:
 spacy
 re
 pypdf2
 
-How To:
+#How To:
 create a venv
 install required dependences
 edit the path for the tender file, example.txt,example1.txt,example2.txt
