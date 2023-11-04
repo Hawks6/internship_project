@@ -6,7 +6,7 @@
 
 <h1>How To:</h1>
 
-1)create a venv
+1)create a venv<br/>
 2)install required dependences<br/>
 3)edit the path for the tender file, example.txt,example1.txt,example2.txt<br/>
 4)first run scratch.py and then phase1.1.2.py<br/>
