@@ -1,6 +1,6 @@
 <h1>Dependences:</h1>
 
-spacy
+spacy\n
 re
 pypdf2
 
